@@ -1,0 +1,14 @@
+{
+    "id": "avaritia",
+    "version": "0.0.0",
+
+    "title": "Avaritia",
+    "description": "Embrace the power of infinity. The most balanced mod ever made.",
+
+    "prestart": "prestart.js",
+
+    "dependencies": {
+        "item-api": ">=0.4.0",
+        "modifier-api": ">=0.1.0"
+    }
+}

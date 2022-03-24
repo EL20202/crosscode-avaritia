@@ -1,0 +1,12 @@
+[{
+    "type": "ENTER",
+    "index": "items"
+},{
+    "type": "IMPORT",
+    "src": "mod:patches/items/items.json"
+},{
+    "type": "IMPORT",
+    "src": "mod:patches/items/gear.json"
+},{
+    "type": "EXIT"
+}]

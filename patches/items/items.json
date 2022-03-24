@@ -1,0 +1,44 @@
+[
+    {
+        "order": 0,
+        "customItem": "avaritia.singularity",
+        "name": {
+            "en_US": "Singularity"
+        },
+        "description": {
+            "en_US": "Infinite power contained in an infinitely dense point."
+        },
+        "type": "TRADE",
+        "rarity": 584,
+        "cost": 1e6,
+        "level": 1,
+        "icon": "item-trade",
+        "noTrack": true,
+        "sources": [],
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    },
+    {
+        "order": 0,
+        "customItem": "avaritia.sandwich-cluster",
+        "name": {
+            "en_US": "Sandwich Cluster"
+        },
+        "description": {
+            "en_US": "Contains the true power of the sandwich."
+        },
+        "type": "TRADE",
+        "rarity": 584,
+        "cost": 1000,
+        "level": 1,
+        "icon": "item-trade",
+        "noTrack": true,
+        "sources": [],
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "labels": {
+        "menu": {
+            "equip": {
+                "modifier": {
+                    "EL_AVAR_INFINITE_DASH": "Infinite Dash"
+                },
+                "descriptions": {
+                    "EL_AVAR_INFINITE_DASH": "Grants an unlimited number of dashes."
+                }
+            }
+        }
+    }
+}

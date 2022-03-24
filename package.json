@@ -1,0 +1,12 @@
+{
+    "name": "avaritia",
+    "version": "0.0.1",
+    "description": "Adds in \"Perfectly Balanced\" gear.",
+
+    "prestart": "prestart.js",
+
+    "ccmodDependencies": {
+        "item-api": ">=0.4.0",
+        "modifier-api": ">=0.1.0"
+    }
+}
