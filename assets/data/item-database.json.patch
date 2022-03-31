@@ -8,5 +8,151 @@
     "type": "IMPORT",
     "src": "mod:patches/items/gear.json"
 },{
+    "type": "IMPORT",
+    "src": "mod:patches/items/singularities.json"
+},{
+    "type": "FOR_IN",
+    "keyword": {
+        "item-id": "__ID__",
+        "name-en_US": "__NAME-EN__",
+        "desc-en_US": "__DESC-EN__"
+    },
+    "values": [
+        {
+            "item-id": "ball-plant",
+            "name-en_US": "Ball Plant",
+            "desc-en_US": "ball plants"
+        },
+        {
+            "item-id": "water-blade",
+            "name-en_US": "Water Blade",
+            "desc-en_US": "water blades"
+        },
+
+
+        {
+            "item-id": "bergen-bush",
+            "name-en_US": "Feather Bush",
+            "desc-en_US": "feather and plume bushes"
+        },
+        {
+            "item-id": "bergen-shrub",
+            "name-en_US": "Pike Shrub",
+            "desc-en_US": "pike and lance shrubs"
+        },
+        {
+            "item-id": "diamond-ice",
+            "name-en_US": "Diamond Ice",
+            "desc-en_US": "diamond ice"
+        },
+        {
+            "item-id": "egg-pot",
+            "name-en_US": "Egg Pot",
+            "desc-en_US": "egg pots"
+        },
+
+        {
+            "item-id": "cactone",
+            "name-en_US": "Cactone",
+            "desc-en_US": "cactones"
+        },
+        {
+            "item-id": "dry-shrub",
+            "name-en_US": "Dry Shrub",
+            "desc-en_US": "dry shrubs"
+        },
+        {
+            "item-id": "palmapple",
+            "name-en_US": "Palmapple",
+            "desc-en_US": "palmapple plants"
+        },
+        {
+            "item-id": "ant-hill",
+            "name-en_US": "Ant Hill",
+            "desc-en_US": "ant hills"
+        },
+        {
+            "item-id": "bone-pile",
+            "name-en_US": "Bone Pile",
+            "desc-en_US": "bones"
+        },
+
+        {
+            "item-id": "sphere-plant",
+            "name-en_US": "Sphere Plant",
+            "desc-en_US": "sphere plants"
+        },
+        {
+            "item-id": "water-cutlass",
+            "name-en_US": "Water Cutlass",
+            "desc-en_US": "water cutlasses"
+        },
+
+
+        {
+            "item-id": "puff-plant",
+            "name-en_US": "Puff Plant",
+            "desc-en_US": "puff plants"
+        },
+        {
+            "item-id": "baraleles",
+            "name-en_US": "Baraleles",
+            "desc-en_US": "baraleles"
+        },
+        {
+            "item-id": "vivid-puff",
+            "name-en_US": "Vivid Puff",
+            "desc-en_US": "vivid puff plants"
+        },
+        {
+            "item-id": "virus-shroom",
+            "name-en_US": "Virus Shroom",
+            "desc-en_US": "virus shrooms"
+        },
+
+
+        {
+            "item-id": "bamboo",
+            "name-en_US": "Bamboo",
+            "desc-en_US": "bamboo sprouts"
+        },
+        {
+            "item-id": "ridge-flower",
+            "name-en_US": "Ridge Flower",
+            "desc-en_US": "ridge flowers"
+        },
+        {
+            "item-id": "crystal",
+            "name-en_US": "Cobalt",
+            "desc-en_US": "cobalt crystals"
+        }
+    ],
+    "body": [
+        {
+            "type": "ADD_ARRAY_ELEMENT",
+            "content": {
+                "order": 0,
+                "customItem": "avaritia.core-__ID__",
+                "name": {
+                    "en_US": "__NAME-EN__ Core"
+                },
+                "description": {
+                    "en_US": "Contains the raw essence of __DESC-EN__."
+                },
+                "type": "TRADE",
+                "rarity": 584,
+                "cost": 1.25e4,
+                "level": 1,
+                "icon": "item-trade",
+                "noTrack": true,
+                "sources": [],
+                "effect": {
+                    "sheet": "",
+                    "name": null
+                }
+            }
+        }
+    ]
+},{
     "type": "EXIT"
 }]

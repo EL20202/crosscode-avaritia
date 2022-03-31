@@ -3,10 +3,14 @@
         "menu": {
             "equip": {
                 "modifier": {
-                    "EL_AVAR_INFINITE_DASH": "Infinite Dash"
+                    "EL_AVAR_INFINITE_DASH": "Infinite Dash",
+                    "EL_AVAR_INFINITY_POWER": "Power of Infinity",
+                    "EL_AVAR_POWER_SHIELD": "Power Shield"
                 },
                 "descriptions": {
-                    "EL_AVAR_INFINITE_DASH": "Grants an unlimited number of dashes."
+                    "EL_AVAR_INFINITE_DASH": "Grants an unlimited number of dashes.",
+                    "EL_AVAR_INFINITY_POWER": "At 100%, grants incredible power to the user.",
+                    "EL_AVAR_POWER_SHIELD": "Grants incredible shield strength and power."
                 }
             }
         }

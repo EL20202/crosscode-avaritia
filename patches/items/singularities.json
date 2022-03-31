@@ -1,0 +1,170 @@
+[
+    {
+        "order": 0,
+        "customItem": "avaritia.sandwich-cluster",
+        "name": {
+            "en_US": "Sandwich Core"
+        },
+        "description": {
+            "en_US": "Contains the true power of the sandwich."
+        },
+        "type": "TRADE",
+        "rarity": 584,
+        "cost": 1e5,
+        "level": 1,
+        "icon": "item-singularity",
+        "noTrack": true,
+        "sources": [],
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    },
+    {
+        "order": 0,
+        "customItem": "avaritia.autumn-cluster",
+        "name": {
+            "en_US": "Autumn Cluster"
+        },
+        "description": {
+            "en_US": "Contains the raw essence of \\c[3]Autumn's Rise\\c[0] and \\c[3]Autumn's Fall\\c[0]."
+        },
+        "type": "TRADE",
+        "rarity": 584,
+        "cost": 1e5,
+        "level": 1,
+        "icon": "item-singularity",
+        "noTrack": true,
+        "sources": [],
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    },
+    {
+        "order": 0,
+        "customItem": "avaritia.bergen-cluster",
+        "name": {
+            "en_US": "Bergen Cluster"
+        },
+        "description": {
+            "en_US": "Contains the raw essence of \\c[3]Bergen Trail\\c[0]."
+        },
+        "type": "TRADE",
+        "rarity": 584,
+        "cost": 1e5,
+        "level": 1,
+        "icon": "item-singularity",
+        "noTrack": true,
+        "sources": [],
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    },
+    {
+        "order": 0,
+        "customItem": "avaritia.valley-cluster",
+        "name": {
+            "en_US": "Maroon Cluster"
+        },
+        "description": {
+            "en_US": "Contains the raw essence of \\c[3]Maroon Valley\\c[0]."
+        },
+        "type": "TRADE",
+        "rarity": 584,
+        "cost": 1e5,
+        "level": 1,
+        "icon": "item-singularity",
+        "noTrack": true,
+        "sources": [],
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    },
+    {
+        "order": 0,
+        "customItem": "avaritia.garden-cluster",
+        "name": {
+            "en_US": "Gaia Cluster"
+        },
+        "description": {
+            "en_US": "Contains the raw essence of \\c[3]Gaia's Garden\\c[0]."
+        },
+        "type": "TRADE",
+        "rarity": 584,
+        "cost": 1e5,
+        "level": 1,
+        "icon": "item-singularity",
+        "noTrack": true,
+        "sources": [],
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    },
+    {
+        "order": 0,
+        "customItem": "avaritia.ridge-cluster",
+        "name": {
+            "en_US": "Sapphire Cluster"
+        },
+        "description": {
+            "en_US": "Contains the raw essence of \\c[3]Sapphire Ridge\\c[0]."
+        },
+        "type": "TRADE",
+        "rarity": 584,
+        "cost": 1e5,
+        "level": 1,
+        "icon": "item-singularity",
+        "noTrack": true,
+        "sources": [],
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    },
+    {
+        "order": 0,
+        "customItem": "avaritia.azure-cluster",
+        "name": {
+            "en_US": "Azure Cluster"
+        },
+        "description": {
+            "en_US": "Contains the raw essence of \\c[3]Azure Archipelago\\c[0]."
+        },
+        "type": "TRADE",
+        "rarity": 584,
+        "cost": 1e5,
+        "level": 1,
+        "icon": "item-singularity",
+        "noTrack": true,
+        "sources": [],
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    },
+    {
+        "order": 0,
+        "customItem": "avaritia.kulero-cluster",
+        "name": {
+            "en_US": "Ku'lero Cluster"
+        },
+        "description": {
+            "en_US": "Contains the raw essence of \\c[3]Ku'lero Temple\\c[0]."
+        },
+        "type": "TRADE",
+        "rarity": 584,
+        "cost": 1e5,
+        "level": 1,
+        "icon": "item-singularity",
+        "noTrack": true,
+        "sources": [],
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    }
+]

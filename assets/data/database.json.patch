@@ -1,0 +1,7 @@
+[{
+    "type": "ENTER",
+    "index": ["traders"]
+},{
+    "type": "IMPORT",
+    "src": "mod:patches/trades/plant.json"
+}]

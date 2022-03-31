@@ -6,6 +6,9 @@
     "prestart": "prestart.js",
 
     "ccmodDependencies": {
+        "ccloader": "^2.21.0",
+        "crosscode": ">=1.4.2",
+        "post-game": ">=1.4.2",
         "item-api": ">=0.4.0",
         "modifier-api": ">=0.1.0"
     }

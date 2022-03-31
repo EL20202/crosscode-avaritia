@@ -1,0 +1,687 @@
+{
+    "avaritia-autumn-plant": {
+        "name": {
+            "en_US": "Autumnal Botanics"
+        },
+        "area": "rhombus-sqr",
+        "order": 0,
+        "options": [
+            {
+                "get": [
+                    {
+                        "id": "avaritia.autumn-cluster",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": "avaritia.core-ball-plant",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-water-blade",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-sphere-plant",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-water-cutlass",
+                        "amount": 1
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-ball-plant",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 91,
+                        "amount": 99
+                    },
+                    {
+                        "id": 92,
+                        "amount": 99
+                    },
+                    {
+                        "id": 95,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-water-blade",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 93,
+                        "amount": 99
+                    },
+                    {
+                        "id": 94,
+                        "amount": 99
+                    },
+                    {
+                        "id": 96,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-sphere-plant",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 241,
+                        "amount": 99
+                    },
+                    {
+                        "id": 242,
+                        "amount": 99
+                    },
+                    {
+                        "id": 245,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-water-cutlass",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 243,
+                        "amount": 99
+                    },
+                    {
+                        "id": 244,
+                        "amount": 99
+                    },
+                    {
+                        "id": 246,
+                        "amount": 99
+                    }
+                ]
+            }
+        ]
+    },
+    "avaritia-bergen-plant": {
+        "name": {
+            "en_US": "Bergen Botanics"
+        },
+        "area": "rhombus-sqr",
+        "order": 0,
+        "options": [
+            {
+                "get": [
+                    {
+                        "id": "avaritia.bergen-cluster",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": "avaritia.core-bergen-bush",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-bergen-shrub",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-diamond-ice",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-egg-pot",
+                        "amount": 1
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-bergen-bush",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 103,
+                        "amount": 99
+                    },
+                    {
+                        "id": 104,
+                        "amount": 99
+                    },
+                    {
+                        "id": 105,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-bergen-shrub",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 106,
+                        "amount": 99
+                    },
+                    {
+                        "id": 107,
+                        "amount": 99
+                    },
+                    {
+                        "id": 108,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-diamond-ice",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 109,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-egg-pot",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 159,
+                        "amount": 99
+                    },
+                    {
+                        "id": 104,
+                        "amount": 99
+                    },
+                    {
+                        "id": 107,
+                        "amount": 99
+                    },
+                    {
+                        "id": 163,
+                        "amount": 99
+                    },
+                    {
+                        "id": 160,
+                        "amount": 99
+                    }
+                    
+                ]
+            }
+        ]
+    },
+    "avaritia-maroon-plant": {
+        "name": {
+            "en_US": "Maroon Botanics"
+        },
+        "area": "rhombus-sqr",
+        "order": 0,
+        "options": [
+            {
+                "get": [
+                    {
+                        "id": "avaritia.valley-cluster",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": "avaritia.core-cactone",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-dry-shrub",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-palmapple",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-ant-hill",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-bone-pile",
+                        "amount": 1
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-cactone",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 177,
+                        "amount": 99
+                    },
+                    {
+                        "id": 179,
+                        "amount": 99
+                    },
+                    {
+                        "id": 188,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-dry-shrub",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 174,
+                        "amount": 99
+                    },
+                    {
+                        "id": 176,
+                        "amount": 99
+                    },
+                    {
+                        "id": 186,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-palmapple",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 177,
+                        "amount": 99
+                    },
+                    {
+                        "id": 178,
+                        "amount": 99
+                    },
+                    {
+                        "id": 188,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-ant-hill",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 185,
+                        "amount": 99
+                    },
+                    {
+                        "id": 175,
+                        "amount": 99
+                    },
+                    {
+                        "id": 187,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-bone-pile",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 180,
+                        "amount": 99
+                    },
+                    {
+                        "id": 181,
+                        "amount": 99
+                    },
+                    {
+                        "id": 182,
+                        "amount": 99
+                    }
+                ]
+            }
+        ]
+    },
+    "avaritia-gaia-plant": {
+        "name": {
+            "en_US": "Gaia Botanics"
+        },
+        "order": 0,
+        "area": "rhombus-sqr",
+        "options": [
+            {
+                "get": [
+                    {
+                        "id": "avaritia.garden-cluster",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": "avaritia.core-puff-plant",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-vivid-puff",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-virus-shroom",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-baraleles",
+                        "amount": 1
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-puff-plant",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 249,
+                        "amount": 99
+                    },
+                    {
+                        "id": 256,
+                        "amount": 99
+                    },
+                    {
+                        "id": 257,
+                        "amount": 99
+                    },
+                    {
+                        "id": 262,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-vivid-puff",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 255,
+                        "amount": 99
+                    },
+                    {
+                        "id": 250,
+                        "amount": 99
+                    },
+                    {
+                        "id": 251,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-baraleles",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 258,
+                        "amount": 99
+                    },
+                    {
+                        "id": 259,
+                        "amount": 99
+                    },
+                    {
+                        "id": 260,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-virus-shroom",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 252,
+                        "amount": 99
+                    },
+                    {
+                        "id": 253,
+                        "amount": 99
+                    },
+                    {
+                        "id": 254,
+                        "amount": 99
+                    }
+                ]
+            }
+        ]
+    },
+    "avaritia-sapphire-plant": {
+        "name": {
+            "en_US": "Sapphire Botanics"
+        },
+        "order": 0,
+        "area": "rhombus-sqr",
+        "options": [
+            {
+                "get": [
+                    {
+                        "id": "avaritia.ridge-cluster",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": "avaritia.core-bamboo",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-ridge-flower",
+                        "amount": 1
+                    },
+                    {
+                        "id": "avaritia.core-crystal",
+                        "amount": 1
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-bamboo",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 386,
+                        "amount": 99
+                    },
+                    {
+                        "id": 387,
+                        "amount": 99
+                    },
+                    {
+                        "id": 388,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-ridge-flower",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 383,
+                        "amount": 99
+                    },
+                    {
+                        "id": 384,
+                        "amount": 99
+                    },
+                    {
+                        "id": 385,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.core-crystal",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 389,
+                        "amount": 99
+                    },
+                    {
+                        "id": 390,
+                        "amount": 99
+                    },
+                    {
+                        "id": 391,
+                        "amount": 99
+                    }
+                ]
+            }
+        ]
+    },
+    "avaritia-ancient-plant": {
+        "name": {
+            "en_US": "Ancient Botanics"
+        },
+        "order": 0,
+        "area": "rhombus-sqr",
+        "options": [
+            {
+                "get": [
+                    {
+                        "id": "avaritia.azure-cluster",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 566,
+                        "amount": 99
+                    },
+                    {
+                        "id": 621,
+                        "amount": 99
+                    },
+                    {
+                        "id": 620,
+                        "amount": 99
+                    },
+                    {
+                        "id": 619,
+                        "amount": 99
+                    }
+                ]
+            },
+            {
+                "get": [
+                    {
+                        "id": "avaritia.kulero-cluster",
+                        "amount": 1
+                    }
+                ],
+                "require": [
+                    {
+                        "id": 561,
+                        "amount": 99
+                    },
+                    {
+                        "id": 562,
+                        "amount": 99
+                    },
+                    {
+                        "id": 563,
+                        "amount": 99
+                    },
+                    {
+                        "id": 564,
+                        "amount": 99
+                    },
+                    {
+                        "id": 565,
+                        "amount": 99
+                    }
+                ]
+            }
+        ]
+    }
+}
